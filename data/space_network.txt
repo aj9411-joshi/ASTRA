@@ -1,0 +1,8 @@
+# ASTRA sample space network
+# NODES <count>
+# EDGE <from> <to> <weight>   (undirected link)
+NODES 4
+EDGE 0 1 10.5
+EDGE 0 2 15.0
+EDGE 1 2 8.5
+EDGE 2 3 12.0
